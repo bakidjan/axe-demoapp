@@ -3,7 +3,7 @@
 
 Welcome to the DropWizard Demo Application !
 
-Hello M2I!
+Hello DIALLO!
 
 
 The goal of this repository is to show a tiny application example
